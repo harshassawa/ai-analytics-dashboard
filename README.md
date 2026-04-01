@@ -40,7 +40,8 @@ npm run dev
 ```
 
 ## 📸 Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e43a234b-f00f-4266-964f-408f3a97a10e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1c43ac4e-1e56-428d-b93c-538f2f83b12a" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ddf33fae-3bf3-4a15-9782-352216561bcd" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2557366b-b48e-4bfc-b0ab-c5e459aee17c" />
+
